@@ -7,6 +7,7 @@ Good libraries for bitcoin
 3. Learning bitcoin from the command line , by The Bitcoin Developer Network (BDN) (https://github.com/BitcoinDeveloperNetwork/Learning-Bitcoin-from-the-Command-Line) 
 
    3.1 From BlockchainCommons(https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+   3.2 In selecting the bitcoin.conf file , use the this tool (https://jlopp.github.io/bitcoin-core-config-generator/)
 
 4. A book  (from https://www.oreilly.com/) that begin with Elleptic Curve :
 
