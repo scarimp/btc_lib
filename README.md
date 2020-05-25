@@ -6,7 +6,7 @@ Good libraries for bitcoin
 
 3. From BlockchainCommons ,it will used bitcoind and bitcoin-cli  with a testnet network(https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 
-   3.1 Learning bitcoin from the command line ,  by The Bitcoin Developer Network (BDN) fork.
+   3.1 Learning bitcoin from the command line ,  by The Bitcoin Developer Network (BDN) fork (https://github.com/BitcoinDeveloperNetwork).
    
    3.2 In creating the bitcoin.conf file , use this tool (https://jlopp.github.io/bitcoin-core-config-generator/)
 
