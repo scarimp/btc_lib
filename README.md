@@ -1,7 +1,7 @@
 # btc_lib
 Good libraries for bitcoin
 
-1. **BX**command line tool (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Download-BX)
+1. **BX** command line tool (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Download-BX)
 2. *BX* payment command (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Payment-Address-Deconstruction)
 
 3. From BlockchainCommons ,it's used bitcoind and bitcoin-cli  with a bitcoin  testnet network(https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
@@ -12,9 +12,9 @@ Good libraries for bitcoin
    
    3.3 Using transactions for control use also a blockexplorer on line ( https://live.blockcypher.com/.)
    
-   3.4 JQ tool to extract data from a json file (https://stedolan.github.io/jq/) and this (https://jqplay.org/) for JQ on line.
+   3.4 **JQ** tool to extract data from a json file (https://stedolan.github.io/jq/) and this (https://jqplay.org/) for JQ on line.
    
-   3.5 seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications.(https://github.com/BlockchainCommons/bc-seedtool-cli/blob/master/MANUAL.md)
+   3.5 **Seedtool** is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications.(https://github.com/BlockchainCommons/bc-seedtool-cli/blob/master/MANUAL.md)
 
 4. A book  (from https://www.oreilly.com/) that begin with Elleptic Curve :
 
