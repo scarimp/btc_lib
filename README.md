@@ -11,6 +11,8 @@ Good libraries for bitcoin
    3.2 In creating the bitcoin.conf file , use this tool (https://jlopp.github.io/bitcoin-core-config-generator/)
    
    3.3 Using transactions for control use also a blockexplorer on line ( https://live.blockcypher.com/.)
+   
+   3.4 JQ tool to extract data from a json file (https://stedolan.github.io/jq/)
 
 4. A book  (from https://www.oreilly.com/) that begin with Elleptic Curve :
 
