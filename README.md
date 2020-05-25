@@ -12,7 +12,7 @@ Good libraries for bitcoin
    
    3.3 Using transactions for control use also a blockexplorer on line ( https://live.blockcypher.com/.)
    
-   3.4 JQ tool to extract data from a json file (https://stedolan.github.io/jq/)
+   3.4 JQ tool to extract data from a json file (https://stedolan.github.io/jq/) and this (https://jqplay.org/) for JQ on line.
 
 4. A book  (from https://www.oreilly.com/) that begin with Elleptic Curve :
 
