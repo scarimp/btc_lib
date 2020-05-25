@@ -1,8 +1,8 @@
 # btc_lib
 Good libraries for bitcoin
 
-1. BX command line tool (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Download-BX)
-2. BX payment command (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Payment-Address-Deconstruction)
+1. **BX**command line tool (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Download-BX)
+2. *BX* payment command (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Payment-Address-Deconstruction)
 
 3. From BlockchainCommons ,it's used bitcoind and bitcoin-cli  with a bitcoin  testnet network(https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 
