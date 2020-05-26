@@ -21,7 +21,7 @@ Rather confusingly Bitcoin Core shows transaction and block hashes as little-end
    
    3.5 **Seedtool** is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications.(https://github.com/BlockchainCommons/bc-seedtool-cli/blob/master/MANUAL.md)
 
-4. A book  (from https://www.oreilly.com/) that begin with Elleptic Curve :
+4. A book  (from https://www.oreilly.com/) that begin with Elleptic Curve :(https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/preface01.html#setting_up)
 
    4.1 "Elliptic curve cryptography, in turn, gives us the signing and verification algorithms. These are at the heart of how transactions work, and transactions are the atomic unit of value transfer in Bitcoin. 
    
