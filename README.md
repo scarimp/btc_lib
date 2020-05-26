@@ -2,7 +2,7 @@
 Good libraries for bitcoin
 
 0. **python-bitcoinlib** Peter Todd python library (https://github.com/petertodd/python-bitcoinlib). Note on Big Endian.
-Rather confusingly Bitcoin Core shows transaction and block hashes as little-endian hex rather than the big-endian the rest of the world uses for SHA256. python-bitcoinlib provides the convenience functions x() and lx() in bitcoin.core to convert from big-endian and little-endian hex to raw bytes to accomodate this. In addition see b2x() and b2lx() for conversion from bytes to big/little-endian hex.
+Rather confusingly Bitcoin Core shows transaction and block hashes as little-endian hex rather than the big-endian the rest of the world uses for SHA256.Python-bitcoinlib provides the convenience functions x() and lx() in bitcoin.core to convert from big-endian and little-endian hex to raw bytes to accomodate this. In addition see b2x() and b2lx() for conversion from bytes to big/little-endian hex.
 
 1. **BX** command line tool (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Download-BX)
 2. *BX* payment command (https://github.com/libbitcoin/libbitcoin-explorer/wiki/Payment-Address-Deconstruction)
