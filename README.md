@@ -13,7 +13,7 @@ Rather confusingly Bitcoin Core shows transaction and block hashes as little-end
    
    3.2 In creating the bitcoin.conf file , use this tool (https://jlopp.github.io/bitcoin-core-config-generator/)
    
-         3.2.1 Controlling aliases (https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/03_1_Verifying_Your_Bitcoin_Setup.md)
+         3.2.1 Controlling aliases(https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/03_1_Verifying_Your_Bitcoin_Setup.md)
    
    3.3 Using transactions for control use also a blockexplorer on line ( https://live.blockcypher.com/.)
    
