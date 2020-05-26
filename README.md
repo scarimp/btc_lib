@@ -28,4 +28,4 @@ Rather confusingly Bitcoin Core shows transaction and block hashes as little-end
    4.2 By learning about finite fields and elliptic curves first, you’ll get a firm grasp of concepts that you’ll need to progress logically".(https://github.com/jimmysong/programmingbitcoin/blob/master/ch01.asciidoc"
 
 
-5.[Covid e dintorni](https://docs.google.com/presentation/d/1lO6vik7UkXQEhAWtVsaF3Bn_KUAUhZsTflTPjeF3aSw/edit#slide=id.g52b86ccd41_22_95)
+5. [Covid e dintorni](https://docs.google.com/presentation/d/1lO6vik7UkXQEhAWtVsaF3Bn_KUAUhZsTflTPjeF3aSw/edit#slide=id.g52b86ccd41_22_95)
