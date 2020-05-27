@@ -28,6 +28,8 @@ Rather confusingly Bitcoin Core shows transaction and block hashes as little-end
    4.2 By learning about finite fields and elliptic curves first, you’ll get a firm grasp of concepts that you’ll need to progress logically".(https://github.com/jimmysong/programmingbitcoin/blob/master/ch01.asciidoc"
    
    4.3 Different type of addresses(https://www.publish0x.com/changelly-blog/bitcoin-btc-addresses-what-do-btc-address-look-like-and-how-xojdwr)
+   
+   4.4 Creating addresses step by step  with openssl(https://medium.com/coinmonks/how-to-generate-a-bitcoin-address-step-by-step-9d7fcbf1ad0b)
 
 
 5. [Covid e dintorni](https://docs.google.com/presentation/d/1lO6vik7UkXQEhAWtVsaF3Bn_KUAUhZsTflTPjeF3aSw/edit#slide=id.g52b86ccd41_22_95)
