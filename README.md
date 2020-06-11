@@ -20,6 +20,8 @@ Rather confusingly Bitcoin Core shows transaction and block hashes as little-end
    3.4 **JQ** tool to extract data from a json file (https://stedolan.github.io/jq/) and this (https://jqplay.org/) for JQ on line.
    
    3.5 **Seedtool** is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications.(https://github.com/BlockchainCommons/bc-seedtool-cli/blob/master/MANUAL.md)
+   
+   3.6 *Btc_json_rpc* [https://github.com/bibajz/bitcoin-python-async-rpc]
 
 4. A book  (from https://www.oreilly.com/) that begin with Elleptic Curve :(https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/preface01.html#setting_up)
 
